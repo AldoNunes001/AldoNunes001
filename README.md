@@ -1,9 +1,9 @@
 ## Hi, there! I'm Aldo Nunes. 👋
-- ⚖️ I'm currently working as Legal Analyst.
-- 👨‍🎓 I'm a student of Information Systems.
-- 👀 I'm interested in making a career transition from Law to IT.
-- 🌱 I’m learning Python, Machine Learning and Data Science.
-- 💞️ I'm looking to collaborate on different types of projects and learn as much as possible.
+![](https://komarev.com/ghpvc/?username=AldoNunes001)
+- 🐍 Python Developer.
+- 👨‍💻 Learning Machine Learning and Data Science.
+- 👨‍🎓 Student of Information Systems.
+- ⚖️ Graduated in Law.
 - 📫 How to reach me: aldonunes001@gmail.com
 <div align="center">
   <a href="https://github.com/aldonunes001">
