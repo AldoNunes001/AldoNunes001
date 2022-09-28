@@ -1,5 +1,4 @@
 ## Hi, there! I'm Aldo Nunes. 👋
-![](https://komarev.com/ghpvc/?username=AldoNunes001)
 - 🐍 Python Developer.
 - 👨‍💻 Learning Machine Learning and Data Science.
 - 👨‍🎓 Student of Information Systems.
