@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Python Developer.<br>👨‍💻 Learning Machine Learning and Data Science.<br>👨‍🎓 Student of Information Systems.<br>⚖️ Graduated in Law.<br>📫 How to reach me: aldonunes001@gmail.com
+🐍 Python Developer.<br>👨‍💻 Machine Learning enthusiast.<br>👨‍🎓 Student of Information Systems.<br>⚖️ Graduated in Law.<br>📫 How to reach me: aldonunes001@gmail.com
 
 
 ## 🌐 Socials:
